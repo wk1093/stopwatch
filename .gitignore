@@ -1,2 +1,6 @@
 *.log
 clock.ico
+config.json
+.mypy_cache/
+.pytest_cache/
+__pycache__/

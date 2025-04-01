@@ -1,6 +1,6 @@
 USER_THEMES = {
-    "mocha": {
-        "type": "light",
+    "mocha2": {
+        "type": "dark",
         "colors": {
             "primary": "#45475a",
             "secondary": "#7f849c",
